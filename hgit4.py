@@ -1,1 +1,1 @@
-print("hola v4 master")
+print("hola v4 esclavo")
