@@ -1,6 +1,6 @@
 
 
-public class hgit{
+public class hgit3{
 
 public static void main(String[] args) {
     System.out.println("hola git");
